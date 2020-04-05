@@ -1,9 +1,9 @@
-Using the method of looping, write a program to print the table of 9 till N in the format as follows:
-(N is input by the user)
+# Using the method of looping, write a program to print the table of 9 till N in the format as follows:
+# (N is input by the user)
 
-9 18 27...
+# 9 18 27...
 
-Print NULL if 0 is input
+# Print NULL if 0 is input
 
 
 
