@@ -1,6 +1,6 @@
-Print the First 3 multiples of the given number "N". (N is a positive integer)
+# Print the First 3 multiples of the given number "N". (N is a positive integer)
 
-Note: print the characters with a single space between them.
+# Note: print the characters with a single space between them.
 
 
 a = int(input())
