@@ -1,6 +1,6 @@
-You will be provided with a number. Print the number of days in the month corresponding to that number.
+# You will be provided with a number. Print the number of days in the month corresponding to that number.
 
-Note: In case the input is February, print 28 days. If the Input is not in valid range print "Error".
+# Note: In case the input is February, print 28 days. If the Input is not in valid range print "Error".
 
 
 a = int(input())
