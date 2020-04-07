@@ -1,6 +1,6 @@
-You are provided with the radius of a circle "A". Find the length of its circumference.
+# You are provided with the radius of a circle "A". Find the length of its circumference.
 
-Note: In case the output is coming in decimal, roundoff to 2nd decimal place. In case the input is a negative number, print "Error".
+# Note: In case the output is coming in decimal, roundoff to 2nd decimal place. In case the input is a negative number, print "Error".
 
 
 import math
